@@ -1,0 +1,24 @@
+{
+    "name":"Kadza private catalogue",
+    "updated_at":"2022-02-26T21:34:03.546Z",
+    "modules":[
+       {
+          "id":"@kadza/node-red-contrib-komfovent",
+          "version":"0.3.3",
+          "description":"Node red node for interacting with komfovent system c6 controller",
+          "keywords":[
+             "komfovent",
+             "node",
+             "node-red",
+             "ventilation"
+          ],
+          "updated_at":"2022-02-06T17:01:46.821Z",
+          "url":"https://github.com/kadza/node-red-contrib-komfovent/packages/1275970",
+          "types":[
+             "komfoventConfig",
+             "komfoventNodeSet",
+             "komfoventNodeGet"
+          ]
+       }
+    ]
+ }
